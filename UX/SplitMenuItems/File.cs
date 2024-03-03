@@ -16,7 +16,6 @@ namespace UX
             {
                 richTextBox1.Text = System.IO.File.ReadAllText(openFileDialog1.FileName);
             }
-
         }
 
         private void проэктToolStripMenuItem_Click(object sender, EventArgs e)
